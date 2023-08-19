@@ -1,0 +1,44 @@
+CRITICAL - 2023-04-20 12:47:25 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\header.php on line 9.
+ 1 APPPATH\Views\plantillas\header.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_cruz_julian\\app\\Views\\plantillas\\header.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\proyecto_cruz_julian\\app\\Views\\plantillas\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/plantillas/header', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('/plantillas/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->contacto()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 12:48:03 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\header.php on line 9.
+ 1 APPPATH\Views\plantillas\header.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_cruz_julian\\app\\Views\\plantillas\\header.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\proyecto_cruz_julian\\app\\Views\\plantillas\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/plantillas/header', [], true)
+ 5 APPPATH\Controllers\Home.php(20): view('/plantillas/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->contacto()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 12:50:31 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\header.php on line 9.
+ 1 APPPATH\Views\plantillas\header.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_cruz_julian\\app\\Views\\plantillas\\header.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\proyecto_cruz_julian\\app\\Views\\plantillas\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/plantillas/header', [], true)
+ 5 APPPATH\Controllers\Home.php(20): view('/plantillas/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->contacto()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 12:54:07 --> Undefined variable $titulo
+in APPPATH\Views\plantillas\header.php on line 9.
+ 1 APPPATH\Views\plantillas\header.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titulo', 'C:\\xampp\\htdocs\\proyecto_cruz_julian\\app\\Views\\plantillas\\header.php', 9)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\proyecto_cruz_julian\\app\\Views\\plantillas\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/plantillas/header', [], true)
+ 5 APPPATH\Controllers\Home.php(20): view('/plantillas/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->contacto()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

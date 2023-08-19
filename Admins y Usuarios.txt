@@ -1,0 +1,32 @@
+---------------------
+MEGATECH Informática
+---------------------
+
+--------------------------------------
+Usuarios Administradores:
+--------------------------------------
+correo: admin@admin.com
+pass: admin
+
+correo: cruzjulian.dev@gmail.com
+pass: 123123
+--------------------------------------
+
+------------------------------------------------------------
+Usuarios Normales:
+------------------------------------------------------------
+correo: usuario@usuario.com  (No tiene compras realizadas)
+pass: usuario
+
+correo: yami@gmail.com
+pass: 123123
+
+correo: juanperez@gmail.com
+pass: 123123
+
+correo: leoportillo@yahoo.com
+pass: 123123
+
+correo: marceloportillo@gmail.com
+pass: 123123
+------------------------------------------------------------
